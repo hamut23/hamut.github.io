@@ -1,0 +1,28 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  background-color: #f8f5ef;
+  color: #3b3028;
+  font-family: "Noto Sans KR", sans-serif;
+}
+
+.site-title {
+  color: #3b3028 !important;
+  font-weight: 600;
+}
+
+h1, h2, h3 {
+  color: #4a3728;
+  font-weight: 600;
+}
+
+a {
+  color: #7b5e3b;
+}
+
+.wrapper {
+  max-width: 900px;
+}
