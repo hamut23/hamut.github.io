@@ -1,3 +1,5 @@
 title: 하뭇(HAMUT)
 description: 연남동 전통주 취향 스튜디오
 theme: minima
+sass:
+  style: compressed
