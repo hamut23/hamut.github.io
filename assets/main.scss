@@ -361,8 +361,17 @@ blockquote {
 
 /* HAMUT LOGO */
 
+.site-title {
+  display: flex !important;
+  align-items: center !important;
+  height: 70px;
+  padding: 0 !important;
+}
+
 .hamut-logo {
-  width: 125px;
-  height: auto;
-  display: block;
+  width: 125px !important;
+  height: auto !important;
+  max-height: none !important;
+  display: block !important;
+  opacity: 1 !important;
 }
