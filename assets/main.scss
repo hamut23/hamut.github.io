@@ -191,3 +191,170 @@ blockquote {
   }
 
 }
+
+/* =========================
+   HAMUT HOME
+   ========================= */
+
+.hamut-hero {
+  padding: 90px 0 110px;
+  border-bottom: 1px solid var(--hamut-line);
+}
+
+.hero-label,
+.section-label {
+  color: var(--hamut-blue);
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  margin-bottom: 20px;
+}
+
+.hamut-hero h1 {
+  font-size: 56px;
+  line-height: 1.35;
+  letter-spacing: -0.05em;
+  margin: 0 0 30px;
+}
+
+.hero-description {
+  font-size: 18px;
+  color: var(--hamut-brown);
+  margin-bottom: 35px;
+}
+
+.hamut-button {
+  display: inline-block;
+  background-color: var(--hamut-blue);
+  color: #ffffff !important;
+  padding: 12px 24px;
+  border-radius: 2px;
+  font-size: 14px;
+  font-weight: 600;
+  transition: 0.2s;
+}
+
+.hamut-button:hover {
+  background-color: var(--hamut-text);
+  text-decoration: none;
+}
+
+
+/* 섹션 */
+
+.hamut-section {
+  padding: 80px 0;
+  border-bottom: 1px solid var(--hamut-line);
+}
+
+.hamut-section h2 {
+  margin-top: 0;
+  margin-bottom: 25px;
+}
+
+.section-lead {
+  font-size: 20px;
+  color: var(--hamut-text);
+  margin-bottom: 18px;
+}
+
+
+/* 프로그램 카드 */
+
+.program-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 18px;
+  margin-top: 40px;
+}
+
+.program-card {
+  background-color: var(--hamut-white);
+  border: 1px solid var(--hamut-line);
+  padding: 30px;
+  min-height: 190px;
+  box-sizing: border-box;
+}
+
+.program-card:hover {
+  border-color: var(--hamut-blue);
+}
+
+.program-icon {
+  font-size: 27px;
+  margin-bottom: 15px;
+}
+
+.program-card h3 {
+  margin: 0 0 12px;
+  font-size: 19px;
+}
+
+.program-card p {
+  margin: 0;
+  font-size: 15px;
+}
+
+
+/* 추천 대상 */
+
+.recommend-list {
+  list-style: none;
+  margin: 35px 0 0;
+  padding: 0;
+}
+
+.recommend-list li {
+  border-bottom: 1px solid var(--hamut-line);
+  padding: 18px 0;
+  font-size: 17px;
+}
+
+.recommend-list li::before {
+  content: "—";
+  color: var(--hamut-blue);
+  margin-right: 12px;
+}
+
+
+/* 위치 */
+
+.location-section {
+  border-bottom: none;
+}
+
+.address {
+  font-size: 18px;
+  color: var(--hamut-text);
+}
+
+
+/* 모바일 */
+
+@media screen and (max-width: 600px) {
+
+  .hamut-hero {
+    padding: 60px 0 75px;
+  }
+
+  .hamut-hero h1 {
+    font-size: 36px;
+  }
+
+  .hero-description {
+    font-size: 16px;
+  }
+
+  .hamut-section {
+    padding: 60px 0;
+  }
+
+  .program-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .program-card {
+    min-height: auto;
+  }
+
+}
