@@ -3,26 +3,173 @@
 
 @import "{{ site.theme }}";
 
+/* =========================
+   HAMUT DESIGN
+   ========================= */
+
+:root {
+  --hamut-bg: #F7F4ED;
+  --hamut-white: #FCFBF8;
+  --hamut-brown: #332C27;
+  --hamut-soft-brown: #68594D;
+  --hamut-blue: #294B5A;
+  --hamut-light-blue: #E7EEF0;
+  --hamut-line: #DED8CF;
+}
+
+/* 전체 */
+
 body {
-  background-color: #f8f5ef;
-  color: #3b3028;
-  font-family: "Noto Sans KR", sans-serif;
+  background-color: var(--hamut-bg);
+  color: var(--hamut-brown);
+  font-family: -apple-system, BlinkMacSystemFont, "Noto Sans KR",
+               "Apple SD Gothic Neo", sans-serif;
+  line-height: 1.8;
+}
+
+/* 링크 */
+
+a {
+  color: var(--hamut-blue);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--hamut-brown);
+  text-decoration: underline;
+}
+
+/* 상단 헤더 */
+
+.site-header {
+  background-color: var(--hamut-bg);
+  border-top: none;
+  border-bottom: 1px solid var(--hamut-line);
+  min-height: 70px;
 }
 
 .site-title {
-  color: #3b3028 !important;
+  color: var(--hamut-brown) !important;
+  font-size: 20px;
   font-weight: 600;
+  letter-spacing: 0.04em;
 }
 
-h1, h2, h3 {
-  color: #4a3728;
-  font-weight: 600;
+.site-nav .page-link {
+  color: var(--hamut-soft-brown);
+  margin-left: 22px;
+  font-size: 14px;
 }
 
-a {
-  color: #7b5e3b;
+.site-nav .page-link:hover {
+  color: var(--hamut-blue);
+  text-decoration: none;
+}
+
+/* 본문 */
+
+.page-content {
+  padding: 70px 0;
 }
 
 .wrapper {
   max-width: 900px;
+}
+
+/* 제목 */
+
+h1 {
+  color: var(--hamut-brown);
+  font-size: 42px;
+  line-height: 1.3;
+  font-weight: 600;
+  letter-spacing: -0.04em;
+  margin-bottom: 28px;
+}
+
+h2 {
+  color: var(--hamut-brown);
+  font-size: 27px;
+  margin-top: 65px;
+  margin-bottom: 22px;
+  font-weight: 600;
+  letter-spacing: -0.03em;
+}
+
+h3 {
+  color: var(--hamut-blue);
+  font-size: 20px;
+  margin-top: 38px;
+}
+
+/* 본문 글자 */
+
+p {
+  color: var(--hamut-soft-brown);
+  font-size: 16px;
+}
+
+li {
+  color: var(--hamut-soft-brown);
+}
+
+/* 구분선 */
+
+hr {
+  border: 0;
+  border-top: 1px solid var(--hamut-line);
+  margin: 50px 0;
+}
+
+/* 인용 */
+
+blockquote {
+  border-left: 3px solid var(--hamut-blue);
+  color: var(--hamut-soft-brown);
+  padding-left: 20px;
+  font-style: normal;
+}
+
+/* 코드 */
+
+code {
+  color: var(--hamut-blue);
+  background-color: var(--hamut-light-blue);
+}
+
+/* 하단 */
+
+.site-footer {
+  background-color: var(--hamut-brown);
+  border-top: none;
+  color: #F7F4ED;
+  padding: 35px 0;
+}
+
+.site-footer p {
+  color: #E8E2D8;
+  font-size: 13px;
+}
+
+/* 모바일 */
+
+@media screen and (max-width: 600px) {
+
+  .page-content {
+    padding: 45px 0;
+  }
+
+  h1 {
+    font-size: 32px;
+  }
+
+  h2 {
+    font-size: 24px;
+    margin-top: 50px;
+  }
+
+  .site-nav .page-link {
+    margin-left: 12px;
+  }
+
 }
