@@ -195,7 +195,7 @@ title: 전통주 모임
   <h3>혼자 참여해도 되나요?</h3>
 
   <p>
-    네. 혼자 신청해서 참여하는 분들도 있습니다.
+    네. 혼자 신청해서 참여하는 분들이 대부분입니다.
     모임에서 자연스럽게 이야기를 나눌 수 있도록
     간단한 질문이나 활동을 준비합니다.
   </p>
@@ -224,7 +224,7 @@ title: 전통주 모임
   </p>
 
   <a class="hamut-button"
-     href="https://www.instagram.com/hamut.official/"
+     href="https://litt.ly/hamut.official"
      target="_blank">
     현재 모임 확인하기
   </a>
