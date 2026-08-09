@@ -73,7 +73,7 @@ title: 프로그램
   </p>
 
   <a class="hamut-button"
-     href="https://www.instagram.com/"
+     href="https://www.instagram.com/hamut.official/"
      target="_blank">
     모임 일정 보기
   </a>
@@ -103,7 +103,7 @@ title: 프로그램
   </p>
 
   <a class="hamut-button"
-     href="https://www.airbnb.com/"
+     href="https://www.airbnb.co.kr/experiences/6303238?checkin=2026-08-10&currentTab=experience_tab&federatedSearchId=003ea55b-1a95-4387-83d0-ce592a6d236e&searchId=c38991cc-7acf-4ace-a1d8-e590959319a2&sectionId=89794ff6-4ca9-4041-9c93-7321876a7aa8"
      target="_blank">
     체험 예약하기
   </a>
