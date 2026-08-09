@@ -120,9 +120,20 @@ title: 전통주 칵테일 클래스
 
 <section class="hamut-section">
 
-  <p class="section-label">INFORMATION</p>
+  <p class="section-label">CLASS INFORMATION</p>
 
   <h2>클래스 안내</h2>
+
+  <p>
+    <strong>클래스</strong><br>
+    전통주 칵테일 클래스
+  </p>
+
+  <p>
+    <strong>진행 방식</strong><br>
+    전통주를 직접 맛보고 특징을 알아본 뒤,
+    전통주를 활용해 나만의 칵테일을 만들어봅니다.
+  </p>
 
   <p>
     <strong>장소</strong><br>
@@ -130,25 +141,70 @@ title: 전통주 칵테일 클래스
   </p>
 
   <p>
-    <strong>형태</strong><br>
-    전통주 칵테일 원데이 클래스
-  </p>
-
-  <p>
-    <strong>예약</strong><br>
+    <strong>예약 방법</strong><br>
     네이버 스마트스토어 사전 예약
   </p>
 
   <p>
-    클래스 일정과 참가비 등 자세한 내용은
-    예약 페이지에서 확인하실 수 있습니다.
+    <strong>참여 방법</strong><br>
+    예약한 날짜와 시간에 하뭇으로 방문해
+    클래스를 체험합니다.
+  </p>
+
+  <p>
+    현재 운영 일정과 참가비,
+    예약 가능한 날짜는 네이버 스마트스토어에서 확인하실 수 있습니다.
   </p>
 
   <a class="hamut-button"
      href="https://smartstore.naver.com/hamut_official/products/11873977858"
      target="_blank">
-    클래스 예약하기
+    네이버에서 클래스 예약하기
   </a>
+
+</section>
+
+
+<section class="hamut-section">
+
+  <p class="section-label">FAQ</p>
+
+  <h2>자주 묻는 질문</h2>
+
+  <h3>전통주를 잘 몰라도 참여할 수 있나요?</h3>
+
+  <p>
+    네. 전통주가 처음인 분도 부담 없이 참여할 수 있도록
+    전통주의 특징부터 쉽게 설명하고 직접 맛보는 과정으로 진행합니다.
+  </p>
+
+  <h3>혼자 참여해도 되나요?</h3>
+
+  <p>
+    네. 혼자 새로운 취미를 경험하거나
+    새로운 사람들과 함께 클래스를 즐기고 싶은 분도 참여할 수 있습니다.
+  </p>
+
+  <h3>어디에서 진행하나요?</h3>
+
+  <p>
+    서울 마포구 연남동 245-49, 3층에 위치한
+    전통주 취향 스튜디오 하뭇에서 진행합니다.
+  </p>
+
+  <h3>어떻게 예약하나요?</h3>
+
+  <p>
+    네이버 스마트스토어에서 원하는 일정의 클래스를
+    사전 예약한 후 참여하실 수 있습니다.
+  </p>
+
+  <h3>친구나 연인과 함께 참여할 수 있나요?</h3>
+
+  <p>
+    네. 친구, 연인과 함께 새로운 술과 취향을 경험하는
+    원데이 클래스로도 참여할 수 있습니다.
+  </p>
 
 </section>
 
