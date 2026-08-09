@@ -42,7 +42,7 @@ title: 프로그램
   </p>
 
   <a class="hamut-button"
-     href="https://smartstore.naver.com/"
+     href="https://smartstore.naver.com/hamut_official/products/11873977858"
      target="_blank">
     클래스 예약하기
   </a>
