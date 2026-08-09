@@ -42,6 +42,11 @@ title: 프로그램
   </p>
 
   <a class="hamut-button"
+     href="{{ '/program/cocktail-class/' | relative_url }}">
+    클래스 자세히 보기
+  </a>
+
+  <a class="hamut-button"
      href="https://smartstore.naver.com/hamut_official/products/11873977858"
      target="_blank">
     클래스 예약하기
@@ -133,7 +138,7 @@ title: 프로그램
   </p>
 
   <a class="hamut-button"
-     href="https://naver.me/Fmf6geLw"
+     href="https://www.instagram.com/hamut.official/"
      target="_blank">
     영업 일정 확인하기
   </a>
