@@ -133,7 +133,7 @@ title: 프로그램
   </p>
 
   <a class="hamut-button"
-     href="https://www.instagram.com/hamut.official/"
+     href="https://naver.me/Fmf6geLw"
      target="_blank">
     영업 일정 확인하기
   </a>
