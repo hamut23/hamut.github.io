@@ -175,9 +175,26 @@ title: 외국인 한국술 체험
 
   <h2>체험 안내</h2>
 
+  <p class="section-lead">
+    한국 전통주를 직접 맛보고,
+    우리술의 특징과 문화를 경험해보는 프로그램입니다.
+  </p>
+
   <p>
-    <strong>Experience</strong><br>
-    Korean Traditional Alcohol Experience
+    <strong>체험 내용</strong><br>
+    한국 전통주 시음 및 한국술 문화 소개<br>
+    전통주를 활용한 나만의 칵테일 만들기
+  </p>
+
+  <p>
+    <strong>체험에서 만나는 술</strong><br>
+    일반적으로 막걸리 1종과 증류주 3종을 포함한
+    한국 전통주를 경험합니다.
+  </p>
+
+  <p>
+    체험 일정과 술의 종류에 따라
+    구성은 달라질 수 있습니다.
   </p>
 
   <p>
@@ -186,18 +203,8 @@ title: 외국인 한국술 체험
   </p>
 
   <p>
-    <strong>내용 · Program</strong><br>
-    한국 전통주 시음 및 한국술 문화 소개,
-    전통주를 활용한 칵테일 만들기
-    
-    *체험에서 만나는 술
-    일반적으로 막걸리 1종과 증류주 3종의 한국 전통주를 경험합니다.
-    체험 일정에 따라 구성은 달라질 수 있습니다.
-  </p>
-
-  <p>
     <strong>예약 · Booking</strong><br>
-    Airbnb Experiences 사전 예약
+    Airbnb Experiences에서 사전 예약 후 참여하실 수 있습니다.
   </p>
 
   <p>
