@@ -103,7 +103,7 @@ title: 프로그램
   </p>
 
   <a class="hamut-button"
-     href="https://www.airbnb.co.kr/experiences/6303238?checkin=2026-08-10&currentTab=experience_tab&federatedSearchId=003ea55b-1a95-4387-83d0-ce592a6d236e&searchId=c38991cc-7acf-4ace-a1d8-e590959319a2&sectionId=89794ff6-4ca9-4041-9c93-7321876a7aa8"
+     href="https://www.airbnb.co.kr/experiences/6303238"
      target="_blank">
     체험 예약하기
   </a>
@@ -129,8 +129,14 @@ title: 프로그램
 
   <p>
     바 영업일정과 방문 안내는
-    네이버지도와 하뭇 인스타그램에서 확인하실 수 있습니다.
+    하뭇 인스타그램에서 확인하실 수 있습니다.
   </p>
+
+  <a class="hamut-button"
+     href="https://www.instagram.com/hamut.official/"
+     target="_blank">
+    영업 일정 확인하기
+  </a>
 
 </section>
 
