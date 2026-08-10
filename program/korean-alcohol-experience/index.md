@@ -181,13 +181,13 @@ title: 외국인 한국술 체험
   </p>
 
   <p>
-    <strong>체험 내용</strong><br>
+    <strong>체험 내용 · Program</strong><br>
     한국 전통주 시음 및 한국술 문화 소개<br>
     전통주를 활용한 나만의 칵테일 만들기
   </p>
 
   <p>
-    <strong>체험에서 만나는 술</strong><br>
+    <strong>체험에서 만나는 술 · Korean Alcohol</strong><br>
     일반적으로 막걸리 1종과 증류주 3종의
     한국 전통주를 경험합니다.
   </p>
