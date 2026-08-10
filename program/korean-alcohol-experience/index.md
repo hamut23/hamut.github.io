@@ -237,8 +237,8 @@ title: 외국인 한국술 체험
   <h3>Can I join if I don't speak Korean?</h3>
 
   <p>
-    Yes. This experience is designed for international visitors
-    and focuses on experiencing Korean alcohol and culture in an easy and enjoyable way.
+    Yes! International visitors are welcome to join.
+The experience is designed to be easy and enjoyable even if you don't speak Korean. We use simple communication, gestures, and translation tools when needed.
   </p>
 
   <h3>What kind of Korean alcohol will I try?</h3>
