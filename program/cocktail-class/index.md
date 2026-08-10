@@ -5,22 +5,17 @@ title: 전통주 칵테일 클래스
 
 <div class="hamut-hero">
 
-  <p class="hero-label">TRADITIONAL KOREAN ALCOHOL COCKTAIL CLASS</p>
+  <p class="hero-label">🍶 CLASS</p>
 
   <h1>
-    전통주로<br>
-    만드는 나만의 칵테일
+    전통주 칵테일<br>
+    클래스
   </h1>
 
   <p class="hero-description">
-    전통주를 쉽고 재미있게 경험하는 하뭇의 원데이 클래스입니다.
+    전통주를 처음 접하는 사람도 어렵지 않게 우리술을 경험하고
+    자신의 취향을 발견할 수 있는 원데이 클래스입니다.
   </p>
-
-  <a class="hamut-button"
-     href="https://smartstore.naver.com/hamut_official/products/11873977858"
-     target="_blank">
-    클래스 예약하기
-  </a>
 
 </div>
 
@@ -29,22 +24,17 @@ title: 전통주 칵테일 클래스
 
   <p class="section-label">ABOUT CLASS</p>
 
-  <h2>전통주 칵테일 클래스란?</h2>
+  <h2>우리술을 새롭게 경험하는 시간</h2>
 
   <p class="section-lead">
-    전통주를 직접 맛보고, 나만의 칵테일을 만들어보며
-    우리술을 새로운 방식으로 경험하는 원데이 클래스입니다.
+    다양한 전통주를 맛보고 나만의 칵테일을 직접 만들어보며
+    우리술을 쉽고 재미있게 경험할 수 있습니다.
   </p>
 
   <p>
     전통주가 처음인 분도 부담 없이 참여할 수 있도록
-    전통주의 특징과 맛을 간단하게 알아본 뒤,
-    직접 칵테일을 만들어보는 방식으로 진행합니다.
-  </p>
-
-  <p>
-    어렵게 술을 공부하는 수업이 아니라
-    좋은 술을 직접 경험하고 나에게 맞는 취향을 찾아보는 시간입니다.
+    전통주의 기본적인 특징부터 칵테일을 만드는 과정까지
+    직접 경험해볼 수 있도록 구성합니다.
   </p>
 
 </section>
@@ -52,7 +42,7 @@ title: 전통주 칵테일 클래스
 
 <section class="hamut-section">
 
-  <p class="section-label">HOW IT WORKS</p>
+  <p class="section-label">CLASS PROGRAM</p>
 
   <h2>이렇게 진행합니다</h2>
 
@@ -101,18 +91,52 @@ title: 전통주 칵테일 클래스
 
 <section class="hamut-section">
 
-  <p class="section-label">WHO IS IT FOR?</p>
+  <p class="section-label">WHAT YOU'LL TASTE</p>
+
+  <h2>오늘 만나는 술</h2>
+
+  <p class="section-lead">
+    클래스에서는 보통 막걸리 1종과 증류주 3종을 함께 맛봅니다.
+  </p>
+
+  <p>
+    제공되는 전통주의 종류와 구성은
+    시즌과 일정에 따라 달라질 수 있습니다.
+  </p>
+
+  <div class="program-card">
+
+    <h3>🍶 막걸리 · Makgeolli</h3>
+    <p>
+      부드럽고 산뜻한 우리술의 매력을 알아봅니다.
+    </p>
+
+    <h3>🍎 과실주 · Fruit Wine</h3>
+    <p>
+      과일의 풍미가 더해진 다양한 우리술을 경험합니다.
+    </p>
+
+    <h3>🥃 증류주 · Distilled Spirits</h3>
+    <p>
+      다양한 향과 개성을 가진 우리술을 직접 맛봅니다.
+    </p>
+
+  </div>
+
+</section>
+
+
+<section class="hamut-section">
+
+  <p class="section-label">WHO IS THIS FOR?</p>
 
   <h2>이런 분께 추천합니다</h2>
 
   <ul class="recommend-list">
-    <li>전통주가 처음인 분</li>
-    <li>전통주를 색다르게 경험해보고 싶은 분</li>
+    <li>색다른 전통주 체험을 찾는 분</li>
     <li>칵테일을 직접 만들어보고 싶은 분</li>
-    <li>새로운 취미를 경험하고 싶은 분</li>
-    <li>특별한 데이트를 찾는 분</li>
-    <li>친구와 새로운 경험을 해보고 싶은 분</li>
-    <li>혼자 새로운 취향을 발견해보고 싶은 분</li>
+    <li>특별한 데이트나 취미를 찾는 분</li>
+    <li>전통주를 새로운 방식으로 즐겨보고 싶은 분</li>
   </ul>
 
 </section>
@@ -120,40 +144,12 @@ title: 전통주 칵테일 클래스
 
 <section class="hamut-section">
 
-  <p class="section-label">CLASS INFORMATION</p>
+  <p class="section-label">RESERVATION</p>
 
-  <h2>클래스 안내</h2>
+  <h2>클래스 예약하기</h2>
 
-  <p>
-    <strong>클래스</strong><br>
-    전통주 칵테일 클래스
-  </p>
-
-  <p>
-    <strong>진행 방식</strong><br>
-    전통주를 직접 맛보고 특징을 알아본 뒤,
-    전통주를 활용해 나만의 칵테일을 만들어봅니다.
-  </p>
-
-  <p>
-    <strong>장소</strong><br>
-    서울 마포구 연남동 245-49, 3층 하뭇
-  </p>
-
-  <p>
-    <strong>예약 방법</strong><br>
-    네이버 스마트스토어 사전 예약
-  </p>
-
-  <p>
-    <strong>참여 방법</strong><br>
-    예약한 날짜와 시간에 하뭇으로 방문해
-    클래스를 체험합니다.
-  </p>
-
-  <p>
-    현재 운영 일정과 참가비,
-    예약 가능한 날짜는 네이버 스마트스토어에서 확인하실 수 있습니다.
+  <p class="section-lead">
+    클래스 일정과 예약은 네이버 스마트스토어에서 확인하실 수 있습니다.
   </p>
 
   <a class="hamut-button"
@@ -165,51 +161,7 @@ title: 전통주 칵테일 클래스
 </section>
 
 
-<section class="hamut-section">
-
-  <p class="section-label">FAQ</p>
-
-  <h2>자주 묻는 질문</h2>
-
-  <h3>전통주를 잘 몰라도 참여할 수 있나요?</h3>
-
-  <p>
-    네. 전통주가 처음인 분도 부담 없이 참여할 수 있도록
-    전통주의 특징부터 쉽게 설명하고 직접 맛보는 과정으로 진행합니다.
-  </p>
-
-  <h3>혼자 참여해도 되나요?</h3>
-
-  <p>
-    네. 혼자 새로운 취미를 경험하거나
-    새로운 사람들과 함께 클래스를 즐기고 싶은 분도 참여할 수 있습니다.
-  </p>
-
-  <h3>어디에서 진행하나요?</h3>
-
-  <p>
-    서울 마포구 연남동 245-49, 3층에 위치한
-    전통주 취향 스튜디오 하뭇에서 진행합니다.
-  </p>
-
-  <h3>어떻게 예약하나요?</h3>
-
-  <p>
-    네이버 스마트스토어에서 원하는 일정의 클래스를
-    사전 예약한 후 참여하실 수 있습니다.
-  </p>
-
-  <h3>친구나 연인과 함께 참여할 수 있나요?</h3>
-
-  <p>
-    네. 친구, 연인과 함께 새로운 술과 취향을 경험하는
-    원데이 클래스로도 참여할 수 있습니다.
-  </p>
-
-</section>
-
-
-<section class="hamut-section">
+<section class="hamut-section location-section">
 
   <p class="section-label">LOCATION</p>
 
@@ -220,7 +172,7 @@ title: 전통주 칵테일 클래스
   </p>
 
   <p>
-    연남동에 위치한 전통주 취향 스튜디오 하뭇입니다.
+    연남동 전통주 취향 스튜디오 하뭇(HAMUT)
   </p>
 
 </section>
