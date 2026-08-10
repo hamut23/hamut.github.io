@@ -119,11 +119,11 @@ description: 연남동 전통주 모임. 전통주를 매개로 새로운 사람
 
   <p class="section-lead">
     현재 진행 중인 모임과 일정은
-    하뭇 인스타그램에서 확인하실 수 있습니다.
+    아래 링크에서 확인하실 수 있습니다.
   </p>
 
   <a class="hamut-button"
-     href="https://www.instagram.com/hamut.official/"
+     href="https://litt.ly/hamut.official"
      target="_blank">
     현재 모임 일정 보기
   </a>
