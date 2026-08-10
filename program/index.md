@@ -42,14 +42,8 @@ title: 프로그램
   </p>
 
   <a class="hamut-button"
-     href="{{ '/program/cocktail-class/' | relative_url }}">
+     href="/hamut.github.io/program/cocktail-class/">
     클래스 자세히 보기
-  </a>
-
-  <a class="hamut-button"
-     href="https://smartstore.naver.com/hamut_official/products/11873977858"
-     target="_blank">
-    클래스 예약하기
   </a>
 
 </section>
@@ -78,9 +72,8 @@ title: 프로그램
   </p>
 
   <a class="hamut-button"
-     href="https://www.instagram.com/hamut.official/"
-     target="_blank">
-    모임 일정 보기
+     href="/hamut.github.io/program/meetup/">
+    모임 자세히 보기
   </a>
 
 </section>
@@ -108,9 +101,8 @@ title: 프로그램
   </p>
 
   <a class="hamut-button"
-     href="https://www.airbnb.co.kr/experiences/6303238"
-     target="_blank">
-    체험 예약하기
+     href="/hamut.github.io/program/korean-alcohol-experience/">
+    체험 자세히 보기
   </a>
 
 </section>
@@ -134,13 +126,12 @@ title: 프로그램
 
   <p>
     바 영업일정과 방문 안내는
-    하뭇 인스타그램에서 확인하실 수 있습니다.
+    네이버 플레이스에서 확인하실 수 있습니다.
   </p>
 
   <a class="hamut-button"
-     href="https://www.instagram.com/hamut.official/"
-     target="_blank">
-    영업 일정 확인하기
+     href="/hamut.github.io/program/traditional-bar/">
+    바 이용 안내
   </a>
 
 </section>
