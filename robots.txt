@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hamut23.github.io/hamut.github.io/sitemap.xml
