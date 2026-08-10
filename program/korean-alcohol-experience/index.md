@@ -219,9 +219,7 @@ title: 외국인 한국술 체험
 
   <p>
     <strong>예약 · Booking</strong><br>
-    Airbnb Experiences에서 사전 예약 후 참여하실 수 있습니다.<br>
-      현재 운영 일정과 체험에 대한 자세한 내용은
-    Airbnb 예약 페이지에서 확인하실 수 있습니다.
+    Airbnb Experiences에서 사전 예약 후 참여하실 수 있습니다.
   </p>
 
   <p>
