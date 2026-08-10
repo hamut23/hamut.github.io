@@ -195,22 +195,14 @@ title: 외국인 한국술 체험
   </p>
 
   <p>
-    (체험 일정에 따라
-    구성은 달라질 수 있습니다.)
-  </p>
-
-  <p>
     <strong>장소 · Location</strong><br>
     서울 마포구 연남동 245-49, 3층 하뭇
   </p>
 
   <p>
     <strong>예약 · Booking</strong><br>
-    Airbnb Experiences에서 사전 예약 후 참여하실 수 있습니다.
-  </p>
-
-  <p>
-    현재 운영 일정과 체험에 대한 자세한 내용은
+    Airbnb Experiences에서 사전 예약 후 참여하실 수 있습니다.<br>
+     현재 운영 일정과 체험에 대한 자세한 내용은
     Airbnb 예약 페이지에서 확인하실 수 있습니다.
   </p>
 
