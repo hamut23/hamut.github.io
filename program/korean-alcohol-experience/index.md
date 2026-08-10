@@ -183,15 +183,33 @@ title: 외국인 한국술 체험
   <p>
     <strong>체험 내용 · Program</strong><br>
     한국 전통주 시음 및 한국술 문화 소개<br>
-    전통주를 활용한 나만의 칵테일 만들기
+    <span>
+      Tasting Korean traditional alcohol & learning about Korean drinking culture
+    </span>
+    <br><br>
+    전통주를 활용한 나만의 칵테일 만들기<br>
+    <span>
+      Making your own cocktail with Korean traditional alcohol
+    </span>
   </p>
 
   <p>
     <strong>체험에서 만나는 술 · Korean Alcohol</strong><br>
-    일반적으로 막걸리 1종과 증류주 3종의
+    일반적으로 막걸리 1종과 증류주 3종을 포함한
     한국 전통주를 경험합니다.<br>
-      (체험 일정에 따라
-    구성은 달라질 수 있습니다.)
+    <span>
+      The experience usually includes 1 type of Makgeolli
+      and 3 types of Korean distilled spirits.
+    </span>
+  </p>
+
+  <p>
+    체험 일정과 술의 종류에 따라
+    구성은 달라질 수 있습니다.<br>
+    <span>
+      The selection of alcohol may vary depending on the
+      experience date and program.
+    </span>
   </p>
 
   <p>
@@ -202,7 +220,12 @@ title: 외국인 한국술 체험
   <p>
     <strong>예약 · Booking</strong><br>
     Airbnb Experiences에서 사전 예약 후 참여하실 수 있습니다.<br>
-     현재 운영 일정과 체험에 대한 자세한 내용은
+      현재 운영 일정과 체험에 대한 자세한 내용은
+    Airbnb 예약 페이지에서 확인하실 수 있습니다.
+  </p>
+
+  <p>
+    현재 운영 일정과 체험에 대한 자세한 내용은
     Airbnb 예약 페이지에서 확인하실 수 있습니다.
   </p>
 
@@ -232,7 +255,8 @@ title: 외국인 한국술 체험
 
   <p>
     Yes! International visitors are welcome to join.
-The experience is designed to be easy and enjoyable even if you don't speak Korean. We use simple communication, gestures, and translation tools when needed.
+    The experience is designed to be easy and enjoyable even if you don't speak Korean.
+    We use simple communication, gestures, and translation tools when needed.
   </p>
 
   <h3>What kind of Korean alcohol will I try?</h3>
