@@ -1,6 +1,7 @@
 ---
 layout: default
-title: 프로그램
+title: 연남동 전통주 프로그램
+description: "연남동 전통주 취향 스튜디오 하뭇(HAMUT)에서 전통주 칵테일 클래스, 전통주 모임, 외국인 한국술 체험, 전통주 바를 만나보세요."
 ---
 
 <div class="hamut-hero">
@@ -13,7 +14,8 @@ title: 프로그램
   </h1>
 
   <p class="hero-description">
-    좋은 술과 함께 새로운 사람과 취향을 만나는 다양한 경험을 준비합니다.
+    좋은 술과 함께 새로운 사람과 취향을 만나는
+    다양한 경험을 준비합니다.
   </p>
 
 </div>
@@ -42,7 +44,7 @@ title: 프로그램
   </p>
 
   <a class="hamut-button"
-     href="/hamut.github.io/program/cocktail-class/">
+     href="{{ '/program/cocktail-class/' | relative_url }}">
     클래스 자세히 보기
   </a>
 
@@ -72,7 +74,7 @@ title: 프로그램
   </p>
 
   <a class="hamut-button"
-     href="/hamut.github.io/program/meetup/">
+     href="{{ '/program/meetup/' | relative_url }}">
     모임 자세히 보기
   </a>
 
@@ -101,7 +103,7 @@ title: 프로그램
   </p>
 
   <a class="hamut-button"
-     href="/hamut.github.io/program/korean-alcohol-experience/">
+     href="{{ '/program/korean-alcohol-experience/' | relative_url }}">
     체험 자세히 보기
   </a>
 
@@ -112,7 +114,7 @@ title: 프로그램
 
   <p class="section-label">🥃 BAR</p>
 
-  <h2>전통주 바</h2>
+  <h2>연남동 전통주 바</h2>
 
   <p class="section-lead">
     연남동에서 좋은 술과 좋은 대화를 즐길 수 있는
@@ -130,7 +132,7 @@ title: 프로그램
   </p>
 
   <a class="hamut-button"
-     href="/hamut.github.io/program/traditional-bar/">
+     href="{{ '/program/traditional-bar/' | relative_url }}">
     바 이용 안내
   </a>
 
