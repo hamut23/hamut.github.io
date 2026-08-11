@@ -14,3 +14,6 @@ theme: minima
 
 author:
   name: "하뭇(HAMUT)"
+
+plugins:
+  - jekyll-sitemap
