@@ -272,8 +272,13 @@ blockquote {
   background-color: var(--hamut-white);
   border: 1px solid var(--hamut-line);
   padding: 30px;
-  min-height: 190px;
   box-sizing: border-box;
+  min-height: 190px;
+}
+
+.program-card .hamut-button {
+  display: inline-block;
+  margin-top: 20px;
 }
 
 .program-card:hover {
