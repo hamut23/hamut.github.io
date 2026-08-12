@@ -1,3 +1,4 @@
+```html
 <head>
 
   <meta charset="utf-8">
@@ -15,11 +16,54 @@
   {% if page.description %}
   <meta name="description" content="{{ page.description }}">
   {% else %}
-  <meta name="description" content="연남동 전통주 취향 스튜디오 하뭇(HAMUT). 전통주를 시작으로 사람과 취향을 연결하며 전통주 클래스, 소셜 모임, 한국술 체험, 전통주 바를 운영합니다.">
+  <meta name="description" content="연남동 전통주 취향 스튜디오 하뭇(HAMUT). 좋은 술, 좋은 사람, 새로운 취향을 만나는 공간입니다. 전통주 클래스, 전통주 모임, 외국인 한국술 체험, 전통주 바를 운영합니다.">
   {% endif %}
 
-  <meta name="google-site-verification" content="XRvDeUjYFblJeYL9RctjUFcs8_63gDk4kpq5I8gpYW4" />
+  <meta name="google-site-verification" content="XRvDeUjYFblJeYL9RctjUFcs8_63gDk4kpq5I8gpYW4">
+
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+
+  <meta property="og:title" content="{{ page.title | default: '연남동 전통주 취향 스튜디오 하뭇(HAMUT)' }}">
+  <meta property="og:description" content="{{ page.description | default: '좋은 술, 좋은 사람, 새로운 취향을 만나는 공간입니다.' }}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:site_name" content="하뭇(HAMUT)">
+  <meta property="og:locale" content="ko_KR">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "@id": "{{ site.url }}{{ site.baseurl }}/#business",
+    "name": "하뭇(HAMUT)",
+    "alternateName": "연남동 전통주 취향 스튜디오 하뭇",
+    "description": "연남동에서 전통주를 시작으로 사람과 취향을 연결하는 전통주 취향 스튜디오입니다. 전통주 칵테일 클래스, 전통주 모임, 외국인 한국술 체험, 전통주 바를 운영합니다.",
+    "url": "{{ site.url }}{{ site.baseurl }}/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "245-49, 3층",
+      "addressLocality": "마포구",
+      "addressRegion": "서울특별시",
+      "addressCountry": "KR"
+    },
+    "areaServed": "서울특별시",
+    "knowsAbout": [
+      "전통주",
+      "한국술",
+      "전통주 칵테일",
+      "전통주 클래스",
+      "전통주 모임",
+      "한국술 체험",
+      "전통주 바"
+    ],
+    "sameAs": [
+      "https://www.instagram.com/hamut.official/",
+      "https://naver.me/Fmf6geLw"
+    ]
+  }
+  </script>
 
   <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
 
 </head>
+```
