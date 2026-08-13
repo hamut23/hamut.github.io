@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 하뭇 소개
+title: 연남동 전통주 취향 스튜디오 하뭇 소개
 permalink: /about/
 ---
 
