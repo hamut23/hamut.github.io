@@ -3,16 +3,52 @@
   <div class="wrapper">
 
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
-  <img src="{{ '/hamut-logo.png' | relative_url }}" alt="하뭇(HAMUT)" class="hamut-logo">
-</a>
+      <img src="{{ '/hamut-logo.png' | relative_url }}" alt="하뭇(HAMUT)" class="hamut-logo">
+    </a>
 
-    <nav class="site-nav">
+    <!-- PC 메뉴 -->
+    <nav class="site-nav desktop-nav">
       <a class="page-link" href="{{ "/" | relative_url }}">홈</a>
       <a class="page-link" href="{{ "/about/" | relative_url }}">하뭇 소개</a>
       <a class="page-link" href="{{ "/program/" | relative_url }}">프로그램</a>
       <a class="page-link" href="{{ "/faq/" | relative_url }}">FAQ</a>
     </nav>
 
+    <!-- 모바일 메뉴 버튼 -->
+    <button class="mobile-menu-toggle"
+            type="button"
+            aria-label="메뉴 열기"
+            aria-expanded="false">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+
+    <!-- 모바일 메뉴 -->
+    <nav class="mobile-nav">
+      <a href="{{ "/" | relative_url }}">홈</a>
+      <a href="{{ "/about/" | relative_url }}">하뭇 소개</a>
+      <a href="{{ "/program/" | relative_url }}">프로그램</a>
+      <a href="{{ "/faq/" | relative_url }}">FAQ</a>
+    </nav>
+
   </div>
 
 </header>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const toggle = document.querySelector(".mobile-menu-toggle");
+    const menu = document.querySelector(".mobile-nav");
+
+    toggle.addEventListener("click", function () {
+      const isOpen = menu.classList.toggle("is-open");
+
+      toggle.setAttribute("aria-expanded", isOpen);
+      toggle.setAttribute(
+        "aria-label",
+        isOpen ? "메뉴 닫기" : "메뉴 열기"
+      );
+    });
+  });
+</script>
