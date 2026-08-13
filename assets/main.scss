@@ -606,3 +606,63 @@ blockquote {
   }
 
 }
+
+/* =========================
+   MOBILE HEADER / MENU
+   ========================= */
+
+@media screen and (max-width: 600px) {
+
+  .site-header {
+    min-height: 80px;
+  }
+
+  .site-header .wrapper {
+    position: relative;
+    max-width: none;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .site-title {
+    height: 80px;
+  }
+
+  .hamut-logo {
+    width: 105px !important;
+  }
+
+  /* 햄버거 버튼 */
+  .site-nav {
+    position: absolute;
+    right: 30px;
+    top: 0;
+  }
+
+  .site-nav .menu-icon {
+    width: 28px;
+    height: 28px;
+  }
+
+  /* 메뉴가 열렸을 때 */
+  .site-nav .trigger {
+    position: absolute;
+    top: 80px;
+    right: 0;
+    width: 180px;
+    background-color: var(--hamut-white);
+    border: 1px solid var(--hamut-line);
+    padding: 15px 0;
+    box-sizing: border-box;
+    z-index: 1000;
+  }
+
+  .site-nav .trigger .page-link {
+    display: block;
+    margin: 0 !important;
+    padding: 12px 24px;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+
+}
