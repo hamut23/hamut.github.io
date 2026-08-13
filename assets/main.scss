@@ -799,3 +799,54 @@ blockquote {
     background-color: var(--hamut-light-blue) !important;
   }
 }
+
+/* =========================
+   DESKTOP HEADER FIX
+   PC에서만 적용
+   ========================= */
+
+@media screen and (min-width: 601px) {
+
+  .site-header .wrapper {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+
+    max-width: 900px !important;
+    min-height: 70px !important;
+
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
+  /* PC 메뉴 */
+  .desktop-nav {
+    display: flex !important;
+    align-items: center !important;
+    margin-left: auto !important;
+  }
+
+  .desktop-nav .page-link {
+    display: inline-block !important;
+
+    margin-left: 22px !important;
+
+    color: var(--hamut-text) !important;
+
+    font-size: 15px !important;
+    line-height: 1.5 !important;
+
+    white-space: nowrap !important;
+  }
+
+  .desktop-nav .page-link:first-child {
+    margin-left: 0 !important;
+  }
+
+  /* 모바일 요소는 PC에서 완전히 숨김 */
+  .mobile-menu-toggle,
+  .mobile-nav {
+    display: none !important;
+  }
+
+}
