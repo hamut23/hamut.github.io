@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FAQ
+title: 하뭇 FAQ
 permalink: /faq/
 ---
 
