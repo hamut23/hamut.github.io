@@ -18,11 +18,14 @@
 }
 
 
-/* 기본 */
+/* =========================
+   기본
+   ========================= */
 
 body {
   background-color: var(--hamut-bg);
   color: var(--hamut-text);
+
   font-family:
     -apple-system,
     BlinkMacSystemFont,
@@ -34,7 +37,9 @@ body {
 }
 
 
-/* 링크 */
+/* =========================
+   링크
+   ========================= */
 
 a {
   color: var(--hamut-blue);
@@ -58,12 +63,38 @@ a:hover {
   min-height: 70px;
 }
 
+.site-header .wrapper {
+  position: relative;
+}
+
+
+/* 로고 */
+
 .site-title {
+  display: flex !important;
+  align-items: center !important;
+
+  height: 70px;
+  padding: 0 !important;
+
   color: var(--hamut-text) !important;
+
   font-size: 20px;
   font-weight: 600;
   letter-spacing: 0.02em;
 }
+
+.hamut-logo {
+  width: 110px !important;
+  height: auto !important;
+  max-height: none !important;
+
+  display: block !important;
+  opacity: 1 !important;
+}
+
+
+/* PC 메뉴 */
 
 .site-nav .page-link {
   color: var(--hamut-text);
@@ -73,6 +104,14 @@ a:hover {
 
 .site-nav .page-link:hover {
   color: var(--hamut-blue);
+}
+
+
+/* 모바일 메뉴는 기본적으로 숨김 */
+
+.mobile-menu-toggle,
+.mobile-nav {
+  display: none;
 }
 
 
@@ -89,19 +128,24 @@ a:hover {
 }
 
 
-/* 제목 */
+/* =========================
+   제목
+   ========================= */
 
 h1 {
   color: var(--hamut-text);
+
   font-size: 42px;
   line-height: 1.35;
   font-weight: 600;
   letter-spacing: -0.04em;
+
   margin-bottom: 30px;
 }
 
 h2 {
   color: var(--hamut-text);
+
   font-size: 28px;
   line-height: 1.4;
   font-weight: 600;
@@ -113,6 +157,7 @@ h2 {
 
 h3 {
   color: var(--hamut-blue);
+
   font-size: 20px;
   font-weight: 600;
 
@@ -121,7 +166,9 @@ h3 {
 }
 
 
-/* 본문 */
+/* =========================
+   본문
+   ========================= */
 
 p {
   color: var(--hamut-brown);
@@ -133,16 +180,21 @@ li {
 }
 
 
-/* 구분선 */
+/* =========================
+   구분선
+   ========================= */
 
 hr {
   border: 0;
   border-top: 1px solid var(--hamut-line);
+
   margin: 55px 0;
 }
 
 
-/* 인용 */
+/* =========================
+   인용
+   ========================= */
 
 blockquote {
   border-left: 3px solid var(--hamut-blue);
@@ -156,8 +208,11 @@ blockquote {
 
 .site-footer {
   background-color: var(--hamut-text);
+
   border-top: none;
+
   color: var(--hamut-bg);
+
   padding: 40px 0;
 }
 
@@ -166,31 +221,6 @@ blockquote {
   font-size: 13px;
 }
 
-
-/* =========================
-   MOBILE
-   ========================= */
-
-@media screen and (max-width: 600px) {
-
-  .page-content {
-    padding: 45px 0;
-  }
-
-  h1 {
-    font-size: 32px;
-  }
-
-  h2 {
-    font-size: 24px;
-    margin-top: 50px;
-  }
-
-  .site-nav .page-link {
-    margin-left: 12px;
-  }
-
-}
 
 /* =========================
    HAMUT HOME
@@ -204,9 +234,11 @@ blockquote {
 .hero-label,
 .section-label {
   color: var(--hamut-blue);
+
   font-size: 12px;
   font-weight: 600;
   letter-spacing: 0.12em;
+
   margin-bottom: 20px;
 }
 
@@ -214,23 +246,35 @@ blockquote {
   font-size: 56px;
   line-height: 1.35;
   letter-spacing: -0.05em;
+
   margin: 0 0 30px;
 }
 
 .hero-description {
   font-size: 18px;
   color: var(--hamut-brown);
+
   margin-bottom: 35px;
 }
 
+
+/* =========================
+   버튼
+   ========================= */
+
 .hamut-button {
   display: inline-block;
+
   background-color: var(--hamut-blue);
   color: #ffffff !important;
+
   padding: 12px 24px;
+
   border-radius: 2px;
+
   font-size: 14px;
   font-weight: 600;
+
   transition: 0.2s;
 }
 
@@ -240,10 +284,13 @@ blockquote {
 }
 
 
-/* 섹션 */
+/* =========================
+   섹션
+   ========================= */
 
 .hamut-section {
   padding: 80px 0;
+
   border-bottom: 1px solid var(--hamut-line);
 }
 
@@ -255,24 +302,34 @@ blockquote {
 .section-lead {
   font-size: 20px;
   color: var(--hamut-text);
+
   margin-bottom: 18px;
 }
 
 
-/* 프로그램 카드 */
+/* =========================
+   프로그램 카드
+   ========================= */
 
 .program-grid {
   display: grid;
+
   grid-template-columns: 1fr 1fr;
+
   gap: 18px;
+
   margin-top: 40px;
 }
 
 .program-card {
   background-color: var(--hamut-white);
+
   border: 1px solid var(--hamut-line);
+
   padding: 30px;
+
   box-sizing: border-box;
+
   min-height: 190px;
 }
 
@@ -301,28 +358,37 @@ blockquote {
 }
 
 
-/* 추천 대상 */
+/* =========================
+   추천 대상
+   ========================= */
 
 .recommend-list {
   list-style: none;
+
   margin: 35px 0 0;
   padding: 0;
 }
 
 .recommend-list li {
   border-bottom: 1px solid var(--hamut-line);
+
   padding: 18px 0;
+
   font-size: 17px;
 }
 
 .recommend-list li::before {
   content: "—";
+
   color: var(--hamut-blue);
+
   margin-right: 12px;
 }
 
 
-/* 위치 */
+/* =========================
+   위치
+   ========================= */
 
 .location-section {
   border-bottom: none;
@@ -334,102 +400,62 @@ blockquote {
 }
 
 
-/* 모바일 */
-
-@media screen and (max-width: 600px) {
-
-  .hamut-hero {
-    padding: 60px 0 75px;
-  }
-
-  .hamut-hero h1 {
-    font-size: 36px;
-  }
-
-  .hero-description {
-    font-size: 16px;
-  }
-
-  .hamut-section {
-    padding: 60px 0;
-  }
-
-  .program-grid {
-    grid-template-columns: 1fr;
-  }
-
-  .program-card {
-    min-height: auto;
-  }
-
-}
-
-/* HAMUT LOGO */
-
-.site-title {
-  display: flex !important;
-  align-items: center !important;
-  height: 70px;
-  padding: 0 !important;
-}
-
-.hamut-logo {
-  width: 110px !important;
-  height: auto !important;
-  max-height: none !important;
-  display: block !important;
-  opacity: 1 !important;
-}
-
 /* =========================
-   RESPONSIVE HEADER
-   ========================= */
-
-/* 모바일 메뉴 기본 숨김 */
-.mobile-menu-toggle,
-.mobile-nav {
-  display: none;
-}
-
-
-/* =========================
-   MOBILE HEADER
+   MOBILE
    ========================= */
 
 @media screen and (max-width: 600px) {
 
-  /* 헤더 */
+  /* =========================
+     HEADER
+     ========================= */
+
   .site-header {
-    min-height: 64px;
+    min-height: 80px;
   }
 
   .site-header .wrapper {
     position: relative;
+
+    max-width: none;
+
+    padding-left: 30px;
+    padding-right: 30px;
+
     display: flex;
     align-items: center;
     justify-content: space-between;
-    min-height: 64px;
   }
 
+
   /* 로고 */
+
   .site-title {
-    height: 64px !important;
+    height: 80px !important;
+
+    display: flex !important;
+    align-items: center !important;
   }
 
   .hamut-logo {
-    width: 95px !important;
+    width: 105px !important;
   }
 
 
-  /* 기존 PC 메뉴 숨기기 */
+  /* PC 메뉴 완전히 숨김 */
+
   .desktop-nav {
     display: none !important;
   }
 
 
-  /* 햄버거 버튼 */
+  /* =========================
+     햄버거 버튼
+     ========================= */
+
   .mobile-menu-toggle {
-    display: flex;
+    display: flex !important;
+
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -444,12 +470,14 @@ blockquote {
     background: transparent;
 
     cursor: pointer;
+
+    flex-shrink: 0;
   }
 
   .mobile-menu-toggle span {
     display: block;
 
-    width: 22px;
+    width: 26px;
     height: 2px;
 
     margin: 3px 0;
@@ -458,24 +486,31 @@ blockquote {
   }
 
 
-  /* 모바일 메뉴 */
+  /* =========================
+     모바일 메뉴
+     ========================= */
+
   .mobile-nav {
     display: none;
 
     position: absolute;
 
-    top: 64px;
-    left: 0;
-    right: 0;
+    top: 80px;
+    right: 20px;
 
-    background-color: var(--hamut-bg);
+    width: 190px;
 
-    border-top: 1px solid var(--hamut-line);
-    border-bottom: 1px solid var(--hamut-line);
+    background-color: var(--hamut-white);
+
+    border: 1px solid var(--hamut-line);
 
     padding: 10px 0;
 
+    box-sizing: border-box;
+
     z-index: 1000;
+
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
   }
 
   .mobile-nav.is-open {
@@ -485,22 +520,25 @@ blockquote {
   .mobile-nav a {
     display: block;
 
-    padding: 14px 20px;
+    padding: 14px 24px;
 
     color: var(--hamut-text);
 
     font-size: 16px;
+    line-height: 1.5;
+
     text-decoration: none;
   }
 
   .mobile-nav a:hover {
     color: var(--hamut-blue);
+
     background-color: var(--hamut-light-blue);
   }
 
 
   /* =========================
-     MOBILE CONTENT
+     CONTENT
      ========================= */
 
   .page-content {
@@ -509,6 +547,7 @@ blockquote {
 
 
   /* 메인 히어로 */
+
   .hamut-hero {
     padding: 50px 0 65px;
   }
@@ -516,62 +555,84 @@ blockquote {
   .hero-label,
   .section-label {
     font-size: 11px;
+
     letter-spacing: 0.1em;
+
     margin-bottom: 16px;
   }
 
   .hamut-hero h1 {
     font-size: 36px;
+
     line-height: 1.3;
     letter-spacing: -0.05em;
+
     margin-bottom: 24px;
   }
 
   .hero-description {
     font-size: 16px;
+
     line-height: 1.75;
+
     margin-bottom: 28px;
   }
 
 
   /* 버튼 */
+
   .hamut-button {
     padding: 13px 22px;
+
     font-size: 14px;
   }
 
 
-  /* 섹션 */
+  /* =========================
+     섹션
+     ========================= */
+
   .hamut-section {
     padding: 55px 0;
   }
 
   .hamut-section h2 {
     font-size: 24px;
+
     line-height: 1.45;
+
+    margin-top: 0;
     margin-bottom: 20px;
   }
 
   .section-lead {
     font-size: 18px;
+
     line-height: 1.7;
   }
 
   .hamut-section p {
     font-size: 15px;
+
     line-height: 1.8;
   }
 
 
-  /* 프로그램 카드 */
+  /* =========================
+     프로그램 카드
+     ========================= */
+
   .program-grid {
     grid-template-columns: 1fr;
+
     gap: 14px;
+
     margin-top: 30px;
   }
 
   .program-card {
     padding: 24px;
+
     min-height: auto;
   }
 
@@ -581,6 +642,7 @@ blockquote {
 
   .program-card p {
     font-size: 15px;
+
     line-height: 1.75;
   }
 
@@ -589,80 +651,27 @@ blockquote {
   }
 
 
-  /* 추천 리스트 */
+  /* =========================
+     추천 리스트
+     ========================= */
+
   .recommend-list {
     margin-top: 25px;
   }
 
   .recommend-list li {
     padding: 15px 0;
+
     font-size: 15px;
   }
 
 
-  /* 주소 */
+  /* =========================
+     주소
+     ========================= */
+
   .address {
     font-size: 17px;
-  }
-
-}
-
-/* =========================
-   MOBILE HEADER / MENU
-   ========================= */
-
-@media screen and (max-width: 600px) {
-
-  .site-header {
-    min-height: 80px;
-  }
-
-  .site-header .wrapper {
-    position: relative;
-    max-width: none;
-    padding-left: 30px;
-    padding-right: 30px;
-  }
-
-  .site-title {
-    height: 80px;
-  }
-
-  .hamut-logo {
-    width: 105px !important;
-  }
-
-  /* 햄버거 버튼 */
-  .site-nav {
-    position: absolute;
-    right: 30px;
-    top: 0;
-  }
-
-  .site-nav .menu-icon {
-    width: 28px;
-    height: 28px;
-  }
-
-  /* 메뉴가 열렸을 때 */
-  .site-nav .trigger {
-    position: absolute;
-    top: 80px;
-    right: 0;
-    width: 180px;
-    background-color: var(--hamut-white);
-    border: 1px solid var(--hamut-line);
-    padding: 15px 0;
-    box-sizing: border-box;
-    z-index: 1000;
-  }
-
-  .site-nav .trigger .page-link {
-    display: block;
-    margin: 0 !important;
-    padding: 12px 24px;
-    font-size: 16px;
-    line-height: 1.5;
   }
 
 }
