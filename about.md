@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 연남동 전통주 취향 스튜디오 하뭇 소개
+description: 연남동 하뭇(HAMUT)은 전통주를 시작으로 사람과 취향을 연결하는 공간입니다. 전통주 클래스, 소셜 모임, 한국술 체험, 전통주 바를 운영합니다.
 permalink: /about/
 ---
 
