@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 하뭇 FAQ
+description: 하뭇의 전통주 클래스, 소셜 모임, 한국술 체험, 전통주 바 이용에 대해 자주 묻는 질문과 답변을 확인해보세요.
 permalink: /faq/
 ---
 
