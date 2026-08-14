@@ -45,7 +45,7 @@ description: "연남동 전통주 취향 스튜디오 하뭇(HAMUT)에서 만나
 
   <a class="hamut-button"
      href="{{ '/program/cocktail-class/' | relative_url }}">
-    클래스 자세히 보기
+    전통주 칵테일 클래스 보기
   </a>
 
 </section>
@@ -75,7 +75,7 @@ description: "연남동 전통주 취향 스튜디오 하뭇(HAMUT)에서 만나
 
   <a class="hamut-button"
      href="{{ '/program/meetup/' | relative_url }}">
-    모임 자세히 보기
+    전통주 모임 보기
   </a>
 
 </section>
@@ -104,7 +104,7 @@ description: "연남동 전통주 취향 스튜디오 하뭇(HAMUT)에서 만나
 
   <a class="hamut-button"
      href="{{ '/program/korean-alcohol-experience/' | relative_url }}">
-    체험 자세히 보기
+    한국술 체험 보기
   </a>
 
 </section>
@@ -133,7 +133,7 @@ description: "연남동 전통주 취향 스튜디오 하뭇(HAMUT)에서 만나
 
   <a class="hamut-button"
      href="{{ '/program/traditional-bar/' | relative_url }}">
-    바 이용 안내
+    전통주 바 이용 안내
   </a>
 
 </section>
