@@ -408,6 +408,14 @@ description: "서울 연남동 하뭇에서 한국의 전통주와 술 문화를
     도 만나보실 수 있습니다.
   </p>
 
+ <p>
+    연남동에서 좋은 술과 좋은 대화를 즐기고 싶다면
+    <a href="{{ '/program/traditional-bar/' | relative_url }}">
+      전통주 바
+    </a>
+    도 이용하실 수 있습니다.
+  </p>
+
   <a class="hamut-button"
      href="{{ '/program/' | relative_url }}">
     하뭇 프로그램 전체 보기
