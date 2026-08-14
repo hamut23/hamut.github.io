@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 서울 외국인 한국술 체험
-description: "서울 연남동 하뭇에서 한국의 전통주와 술 문화를 직접 경험해보는 외국인 대상 한국술 체험 프로그램입니다. 막걸리, 약주·청주, 과실주, 증류주 등 다양한 한국술을 맛보고 한국의 술 문화를 쉽고 재미있게 알아볼 수 있습니다."
+description: "서울 연남동 하뭇에서 한국의 전통주와 술 문화를 직접 경험해보는 외국인 대상 한국술 체험입니다. 다양한 한국술을 맛보고 나만의 한국술 칵테일을 만들어 병에 담아 가져갈 수 있습니다."
 ---
 
 <div class="hamut-hero">
@@ -9,13 +9,14 @@ description: "서울 연남동 하뭇에서 한국의 전통주와 술 문화를
   <p class="hero-label">🌎 KOREAN ALCOHOL EXPERIENCE</p>
 
   <h1>
-    한국의 술과 문화를<br>
-    직접 경험해보세요
+    Taste Korea,<br>
+    Make Your Own Cocktail,<br>
+    Take It Home
   </h1>
 
   <p class="hero-description">
-    서울 연남동 하뭇에서 다양한 한국술을 맛보고
-    한국의 술 문화와 이야기를 경험하는 프로그램입니다.
+    서울 연남동 하뭇에서 다양한 한국술을 맛보고,
+    직접 나만의 칵테일을 만들어 가져가는 한국술 체험입니다.
   </p>
 
 </div>
@@ -25,28 +26,105 @@ description: "서울 연남동 하뭇에서 한국의 전통주와 술 문화를
 
   <p class="section-label">ABOUT THE EXPERIENCE</p>
 
-  <h2>한국술을 가장 쉽게 만나는 방법</h2>
+  <h2>한국술을 맛보고,<br>직접 만들어보세요</h2>
 
   <p class="section-lead">
-    한국을 여행하며 특별한 경험을 찾고 있다면,
-    한국술을 직접 맛보며 우리나라의 술 문화를 만나보세요.
+    서울 여행 중 조금 특별한 한국 문화를 경험하고 싶다면,
+    한국술을 직접 맛보고 나만의 칵테일을 만들어보세요.
   </p>
 
   <p>
     하뭇에서는 외국인 여행객이 한국의 다양한 술을
-    어렵지 않게 경험할 수 있도록 한국술 체험 프로그램을 운영합니다.
+    쉽고 재미있게 경험할 수 있는 한국술 체험을 진행합니다.
   </p>
 
   <p>
-    단순히 술을 마시는 것에 그치지 않고,
-    한국술의 종류와 특징, 술을 즐기는 방법에 대한 이야기를
-    함께 나누며 한국의 술 문화를 자연스럽게 알아갈 수 있습니다.
+    막걸리부터 청주·약주, 과실주, 증류주까지
+    다양한 한국술을 맛보고 각각의 특징과 맛을 비교해봅니다.
   </p>
 
   <p>
-    한국술을 처음 접하는 분도 부담 없이 참여할 수 있도록
-    쉽고 편안한 분위기로 진행합니다.
+    그리고 마음에 드는 한국술과 다양한 재료를 조합해
+    나만의 칵테일을 직접 만들어봅니다.
   </p>
+
+  <p>
+    마지막에는 내가 만든 칵테일을 바틀에 담아
+    직접 가져갈 수 있습니다.
+  </p>
+
+</section>
+
+
+<section class="hamut-section">
+
+  <p class="section-label">MAKE YOUR OWN</p>
+
+  <h2>직접 만든 칵테일을<br>서울 여행의 기념품으로</h2>
+
+  <p class="section-lead">
+    그냥 마시고 끝나는 체험이 아닙니다.
+    내가 직접 만든 칵테일을 바틀에 담아 가져갑니다.
+  </p>
+
+  <div class="program-grid">
+
+    <div class="program-card">
+
+      <div class="program-icon">🍸</div>
+
+      <h3>Choose Your Taste</h3>
+
+      <p>
+        다양한 한국술을 맛보며
+        내가 좋아하는 향과 맛을 찾아봅니다.
+      </p>
+
+    </div>
+
+
+    <div class="program-card">
+
+      <div class="program-icon">🧪</div>
+
+      <h3>Make Your Cocktail</h3>
+
+      <p>
+        한국술과 다양한 재료를 조합해
+        나만의 칵테일을 직접 만들어봅니다.
+      </p>
+
+    </div>
+
+
+    <div class="program-card">
+
+      <div class="program-icon">🍾</div>
+
+      <h3>Bottle It</h3>
+
+      <p>
+        직접 만든 칵테일을 바틀에 담아
+        나만의 한국술 칵테일을 완성합니다.
+      </p>
+
+    </div>
+
+
+    <div class="program-card">
+
+      <div class="program-icon">🎁</div>
+
+      <h3>Take It Home</h3>
+
+      <p>
+        내가 직접 만든 칵테일을 가져가며
+        서울에서의 특별한 경험을 오래 간직할 수 있습니다.
+      </p>
+
+    </div>
+
+  </div>
 
 </section>
 
@@ -101,7 +179,7 @@ description: "서울 연남동 하뭇에서 한국의 전통주와 술 문화를
       <h3>과실주 · Korean Fruit Wine</h3>
 
       <p>
-        사과, 복숭아 등 다양한 과일의 풍미를 살린
+        다양한 과일의 풍미와 향을 살린
         한국의 과실주를 통해
         전통주와는 또 다른 맛을 경험할 수 있습니다.
       </p>
@@ -137,7 +215,7 @@ description: "서울 연남동 하뭇에서 한국의 전통주와 술 문화를
 
   <p class="section-label">WHAT YOU WILL EXPERIENCE</p>
 
-  <h2>이런 경험을 할 수 있습니다</h2>
+  <h2>이런 순서로 진행됩니다</h2>
 
   <div class="program-grid">
 
@@ -145,11 +223,12 @@ description: "서울 연남동 하뭇에서 한국의 전통주와 술 문화를
 
       <div class="program-icon">①</div>
 
-      <h3>한국술 알아보기</h3>
+      <h3>Learn About Korean Alcohol</h3>
 
       <p>
         한국에는 어떤 종류의 술이 있는지,
-        각각 어떻게 만들어지는지 쉽고 재미있게 알아봅니다.
+        각각 어떤 특징을 가지고 있는지
+        쉽고 재미있게 알아봅니다.
       </p>
 
     </div>
@@ -159,7 +238,7 @@ description: "서울 연남동 하뭇에서 한국의 전통주와 술 문화를
 
       <div class="program-icon">②</div>
 
-      <h3>다양한 한국술 맛보기</h3>
+      <h3>Taste Korean Alcohol</h3>
 
       <p>
         여러 종류의 한국술을 직접 맛보며
@@ -173,10 +252,10 @@ description: "서울 연남동 하뭇에서 한국의 전통주와 술 문화를
 
       <div class="program-icon">③</div>
 
-      <h3>한국술로 칵테일 만들기</h3>
+      <h3>Make Your Own Cocktail</h3>
 
       <p>
-       한국술과 다양한 재료를 조합해
+        한국술과 다양한 재료를 조합해
         나만의 칵테일을 직접 만들어봅니다.
       </p>
 
@@ -187,11 +266,11 @@ description: "서울 연남동 하뭇에서 한국의 전통주와 술 문화를
 
       <div class="program-icon">④</div>
 
-      <h3>나의 한국술 취향 발견하기</h3>
+      <h3>Bottle & Take It Home</h3>
 
       <p>
-        직접 만든 칵테일을 즐기며
-        나에게 맞는 한국술 취향을 찾아봅니다.
+        직접 만든 칵테일을 바틀에 담아
+        서울 여행의 특별한 기념품으로 가져갑니다.
       </p>
 
     </div>
@@ -217,14 +296,38 @@ description: "서울 연남동 하뭇에서 한국의 전통주와 술 문화를
   </p>
 
   <p>
-    한국술 체험에서는 다양한 술의 맛뿐만 아니라
-    나의 한국술 취향을 찾고
-    나만의 한국술 칵테일을 만들어서 가져갑니다.
+    술을 나누는 자리에는 음식과 사람,
+    그리고 이야기가 함께합니다.
   </p>
 
   <p>
-    서울 여행 중 조금 더 특별하고 로컬한 경험을 찾고 있다면
-    한국술을 통해 한국 문화를 만나보세요.
+    이번 체험에서는 한국술의 맛뿐만 아니라
+    한국 사람들이 술을 즐기는 문화와 이야기도
+    자연스럽게 만나볼 수 있습니다.
+  </p>
+
+</section>
+
+
+<section class="hamut-section">
+
+  <p class="section-label">LANGUAGE</p>
+
+  <h2>Language Notice</h2>
+
+  <p class="section-lead">
+    The experience is mainly conducted in Korean.
+  </p>
+
+  <p>
+    Simple English, gestures, and translation tools are used
+    to help international guests understand and participate
+    in the experience.
+  </p>
+
+  <p>
+    You don't need to speak Korean to enjoy the experience,
+    but please keep in mind that this is not an English-guided class.
   </p>
 
 </section>
@@ -246,9 +349,11 @@ description: "서울 연남동 하뭇에서 한국의 전통주와 술 문화를
 
     <li>한국의 술 문화를 직접 경험해보고 싶은 분</li>
 
-    <li>외국인 친구나 연인과 함께 색다른 서울 여행을 하고 싶은 분</li>
+    <li>한국술로 직접 칵테일을 만들어보고 싶은 분</li>
 
-    <li>다양한 한국술을 경험하고 싶은 분</li>
+    <li>내가 만든 칵테일을 여행 기념품으로 가져가고 싶은 분</li>
+
+    <li>외국인 친구나 연인과 함께 색다른 서울 여행을 하고 싶은 분</li>
 
   </ul>
 
@@ -262,7 +367,7 @@ description: "서울 연남동 하뭇에서 한국의 전통주와 술 문화를
   <h2>한국술 체험 예약하기</h2>
 
   <p class="section-lead">
-    체험 일정과 예약 방법은 아래에서 확인하실 수 있습니다.
+    체험 일정과 예약 방법은 Airbnb에서 확인하실 수 있습니다.
   </p>
 
   <p>
@@ -274,7 +379,7 @@ description: "서울 연남동 하뭇에서 한국의 전통주와 술 문화를
      href="https://www.airbnb.co.kr/experiences/6303238"
      target="_blank"
      rel="noopener">
-    한국술 체험 예약하기
+    Airbnb에서 예약하기
   </a>
 
 </section>
