@@ -184,7 +184,7 @@ description: "서울 연남동 하뭇에서 진행하는 전통주 칵테일 원
   <p>
     전통주를 함께 즐기며 새로운 사람을 만나고 싶다면
     <a href="{{ '/program/meetup/' | relative_url }}">전통주 모임</a>을,
-    한국의 술과 문화를 직접 경험하고 싶다면
+    외국인 친구와 함께 한국의 술과 문화를 직접 경험하고 싶다면
     <a href="{{ '/program/korean-alcohol-experience/' | relative_url }}">한국술 체험</a>을
     확인해보세요.
   </p>
