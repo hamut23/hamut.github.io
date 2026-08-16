@@ -11,7 +11,7 @@ permalink: /faq/
 
   <h1>
     하뭇이 처음이라면<br>
-    이것부터 확인해주세요
+    꼭 읽어주세요💙
   </h1>
 
   <p class="hero-description">
