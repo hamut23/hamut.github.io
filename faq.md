@@ -10,7 +10,7 @@ permalink: /faq/
   <p class="hero-label">FAQ</p>
 
   <h1>
-    하뭇이 처음이라면<br>
+    하뭇에 처음 방문하신다면<br>
     꼭 읽어주세요💙
   </h1>
 
