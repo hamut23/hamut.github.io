@@ -29,6 +29,8 @@
   <meta property="og:site_name" content="하뭇(HAMUT)">
   <meta property="og:locale" content="ko_KR">
 
+
+  <!-- 하뭇 사업체 정보 -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -61,6 +63,21 @@
     ]
   }
   </script>
+
+
+  <!-- 하뭇 사이트 이름 -->
+  {% if page.url == '/' %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "하뭇(HAMUT)",
+    "alternateName": "하뭇",
+    "url": "{{ site.url }}{{ site.baseurl }}/"
+  }
+  </script>
+  {% endif %}
+
 
   <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
 
