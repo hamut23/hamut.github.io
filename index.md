@@ -6,7 +6,7 @@ description: "서울 연남동 하뭇(HAMUT)은 전통주를 시작으로 사람
 
 <div class="hamut-hero">
 
-  <p class="hero-label">YEONNAM-DONG · TRADITIONAL KOREAN ALCOHOL STUDIO</p>
+  <p class="hero-label">YEONNAM-DONG · TRADITIONAL KOREAN LIQUOR STUDIO</p>
 
   <h1>
     좋은 술,<br>
@@ -144,7 +144,7 @@ description: "서울 연남동 하뭇(HAMUT)은 전통주를 시작으로 사람
 
 <section class="hamut-section">
 
-  <p class="section-label">TRADITIONAL KOREAN ALCOHOL</p>
+  <p class="section-label">TRADITIONAL KOREAN LIQUOR</p>
 
   <h2>전통주를 시작으로<br>새로운 취향을 만나는 곳</h2>
 
