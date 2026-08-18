@@ -6,7 +6,7 @@ description: "연남동 전통주 바 하뭇에서 다양한 막걸리, 약주·
 
 <div class="hamut-hero">
 
-  <p class="hero-label">🥃 TRADITIONAL KOREAN ALCOHOL BAR</p>
+  <p class="hero-label">🥃 TRADITIONAL KOREAN LIQUOR BAR</p>
 
   <h1>
     연남동 전통주 바<br>
